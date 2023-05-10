@@ -10,7 +10,7 @@ import Foundation
 import Combine
 import OpenAI
 
-let kDeafultAPIHost = "service-4mekgteu-1251187043.sg.apigw.tencentcs.com"
+let kDeafultAPIHost = "service-hby30r7o-1251187043.sg.apigw.tencentcs.com"
 let kDeafultAPITimeout = 30.0
 let kAPIModels = [Model.gpt3_5Turbo, Model.gpt4, Model.gpt4_32k, Model.gpt4_0314, Model.gpt4_32k_0314, Model.gpt3_5Turbo0301]
 
